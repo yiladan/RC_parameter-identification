@@ -1,10 +1,8 @@
 # RC_parameter-identification
 
 #### 介绍
-使用python对脉冲数据进行RC参数辨识
-
-#### 软件架构
-软件架构说明
+使用python对脉冲数据进行二阶RC参数辨识
+得到RC参数数据
 
 
 #### 安装教程
